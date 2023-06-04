@@ -1,6 +1,17 @@
 # Summary
 
-- [食物](./foods/README.md)
-  - [糯米类]() 
-    -  [糯米糍](foods\nuomi\nuomici.md) 
+ [介绍](README.md) 
+
+---
+
+
+
+# 食物
+
+- [糯米类]() 
+  -  [糯米糍](foods\nuomi\nuomici.md) 
+
+
+
+---
 
