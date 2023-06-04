@@ -51,7 +51,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: /
+      url: /SmileX-Life/
     runs-on: ubuntu-latest
     needs: build
     steps:
