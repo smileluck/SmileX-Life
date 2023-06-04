@@ -9,7 +9,7 @@
 # 食物
 
 - [糯米类]() 
-  -  [糯米糍](foods\nuomi\nuomici.md) 
+  -  [糯米糍](foods\nuomici.md) 
 
 
 
