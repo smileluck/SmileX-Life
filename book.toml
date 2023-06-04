@@ -8,5 +8,5 @@ title = "SmileX-Life"
 [output.html]
 default-theme = "rust"
 preferred-dark-theme = "navy"
-site-url = "/example-book/"
+site-url = "/SmileX-Life/"
 git-repository-url = "https://github.com/smileluck/SmileX-Life"
