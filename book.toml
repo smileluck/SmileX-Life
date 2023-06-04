@@ -6,7 +6,7 @@ src = "src"
 title = "SmileX-Life"
 
 [output.html]
-theme = "my-theme"
 default-theme = "rust"
 preferred-dark-theme = "navy"
 site-url = "/example-book/"
+git-repository-url = "https://github.com/smileluck/SmileX-Life"
