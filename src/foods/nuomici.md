@@ -38,3 +38,5 @@
 8. 揉一揉，切断后擀平
 9. 挤入内料，包好剪掉过多的尾
 10. 放入盒子中，撒上外衣的粉
+
+![4dde6a9ea50c712fabf265e6e705ea3](nuomici.assets/4dde6a9ea50c712fabf265e6e705ea3.jpg)
